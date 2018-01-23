@@ -16,7 +16,7 @@
 
 export default {
   layout: 'wap',
-  data () {
+  data () {11
     return {
 
     }
